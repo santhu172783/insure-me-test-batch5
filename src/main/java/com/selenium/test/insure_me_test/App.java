@@ -19,7 +19,7 @@ public class App {
         
         
 
-        driver.get("http://3.83.102.152:8081/contact.html");
+        driver.get("http://44.202.116.117:8081/contact.html");
 
         System.out.println(driver.getTitle());
 
